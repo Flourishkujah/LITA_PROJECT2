@@ -35,10 +35,9 @@ This project focuses on analyzing customer data for a subscription service to un
    - Total number of customers per region.
      ```
      SELECT region, COUNT(customerid) AS Totalnumberofcustomers
-FROM LITACapstoneDatasetCusCSV
-GROUP By region;
-
-```
+     FROM LITACapstoneDatasetCusCSV
+     GROUP By region;
+      ```
 
 ![image](https://github.com/user-attachments/assets/f3d80b15-0ab8-4055-82d1-6ff3d9cfc5b0)
 
