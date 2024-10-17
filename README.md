@@ -119,3 +119,5 @@ GROUP BY Canceled;
 
 ## 3. **Power BI**:  
    - Develop a Power BI dashboard that visualizes key segments, cancellations, and subscription trends. Add slicers for interactive exploration.
+
+   ![image](https://github.com/user-attachments/assets/08797a2a-9980-48af-a935-3c3950780481)
