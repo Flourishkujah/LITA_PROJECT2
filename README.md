@@ -22,8 +22,8 @@ This project focuses on analyzing customer data for a subscription service to un
   
   ![image](https://github.com/user-attachments/assets/1dce94d9-a1d3-4e65-b10d-ca642e2cdeef)
 
-   - Generate any other insightful reports.
-   - 
+  ### - Generate any other insightful reports.
+  
 ![image](https://github.com/user-attachments/assets/1a5d8fd3-619c-4db3-b72c-81709f81fb32)
 
 
